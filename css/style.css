@@ -19,10 +19,14 @@ body {
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 25px;
     padding-bottom: 50px;
 }
 
 .quem-somos img {
     margin: 25px;
+}
+
+.parceiros {
+    background-color: rgb(43, 116, 226);
 }
