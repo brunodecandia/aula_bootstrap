@@ -1,0 +1,18 @@
+.navbar {
+    background-color: rgb(79, 79, 124);
+}
+
+.navbar-brand img {
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.quem-somos {
+    background-color: #b1d4b7;
+}
+
+.margin {
+    padding-top: 50px;
+}
