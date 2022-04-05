@@ -30,3 +30,8 @@ body {
 .parceiros {
     background-color: rgb(43, 116, 226);
 }
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
